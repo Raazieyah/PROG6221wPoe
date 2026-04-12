@@ -7,6 +7,7 @@ ASCII Art used to created Logo
 Public classes created
 ## Program.cs
 audio method moved to AudioPlayer.cs
+Call methods
 
 ## AudioPlayer.cs
 play method created
