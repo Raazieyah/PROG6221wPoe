@@ -18,5 +18,10 @@ console to chat to bot
 ## User.cs
 response method created for user input
 
+##   CI implemented
+<img width="940" height="175" alt="ci" src="https://github.com/user-attachments/assets/f7b12c8f-2931-44fe-87e5-24e0b3995b0a" />
+
+
+
 
 
